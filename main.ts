@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // One original roast, written for this bounty.
 const line =
-  "The senator who called artificial intelligence an existential threat just phoned IT in a panic because his bill 'turned into a PDF and now I can't edit it anymore' — then voted to regulate the machines that did it.";
+  "The senator who called artificial intelligence an existential threat just called IT in a panic because his bill 'turned into a PDF and now I can't edit it anymore' — then voted to regulate the software that did it.";
 
 // The bounty requires ONE satirical sentence of at most 320 characters.
 // Count Unicode code points (not UTF-16 units or bytes) so multi-byte
